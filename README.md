@@ -1,3 +1,3 @@
-# Three.js Journey
+# Three.js Study
 
-Repository of [three.js Journey](https://threejs-journey.com/) course exercises.
+Repository to study the [three.js](https://threejs.org/) library.
